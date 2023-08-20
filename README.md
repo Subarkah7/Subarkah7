@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning about Mobile App Development using Flutter Framework<br>🎯 Goals: Remote Worker<br>🎲 Favorite Quotes: "Jarib wa laahidzh takun a'arifan."</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning about Mobile App Development using Flutter Framework<br>🎯 Goals: Remote Worker<br>🎲 Favorite Quotes: "Wer rastet, der rostet"</p>
 
 ###
 
