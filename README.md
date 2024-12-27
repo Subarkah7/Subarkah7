@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Arif Subarkah and I'm a Software Engineer, from Purwokerto Indonesia</p>
+<p align="left">My name is Arif Subarkah, and I’m a Software Engineer from Purwokerto, Indonesia</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning about Mobile App Development using Flutter Framework<br>🎯 Goals: Remote Worker<br>🎲 Favorite Quotes: "Wer rastet, der rostet"</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Currently learning about Design System in depth<br>🎯 Goals: Continual Growth as a Remote Worker<br>🎲 Favorite Quotes: "Wer rastet, der rostet"</p>
 
 ###
 
