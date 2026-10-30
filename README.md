@@ -1,53 +1,32 @@
-<h1 align="left">Hi, I'm Arif Subarkah 👋</h1>
-
-<p align="left">
-Software Engineer focused on building scalable web applications and digital products.<br>
-Based in Indonesia 🇮🇩 • Working remotely
+## Hi, I'm Arif Subarkah
+ 
+Software Engineer crafting scalable web applications and digital products.<br>
+<sub>📍 Indonesia · Working remotely</sub>
+ 
+I build business-oriented applications with a focus on **performance**, **scalability**, and **maintainability** — currently going deeper into **Design Systems** to bridge engineering and product experience.
+ 
+> Good software isn't just a working system — it's a solution that creates real impact.
+ 
+<br>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" title="Laravel" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="36" alt="NestJS" title="NestJS" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" title="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="36" alt="Svelte" title="Svelte" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="36" alt="Dart" title="Dart" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" title="Flutter" />
 </p>
-
----
-
-<h2 align="left">🚀 About Me</h2>
-
-<p align="left">
-I specialize in developing business-oriented applications with a strong emphasis on performance, scalability, and maintainability.
-<br><br>
-Currently exploring and deepening my knowledge in <b>Design Systems</b> to bridge the gap between engineering and product experience.
-<br><br>
-I believe good software is not just about working systems — it's about creating solutions that deliver real impact.
-</p>
-
----
-
-<h2 align="left">🛠 Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-</div>
-
----
-
-<h2 align="left">🎯 Current Focus</h2>
-
-<p align="left">
-• Building scalable backend systems with Laravel<br>
-• Developing modern frontend with React & Inertia.js<br>
-• Designing consistent and maintainable Design Systems<br>
-• Exploring product-driven engineering approach
-</p>
-
----
-
-<h2 align="left">📈 Mindset</h2>
-
-<p align="left">
-"Continuous improvement over perfection."<br>
-Always learning, iterating, and building.
-</p>
+<br>
+**Currently focused on**
+ 
+- Scalable backend systems with Laravel & NestJS
+- Modern frontends with React, Vue.js, Svelte & Inertia.js
+- Consistent, maintainable Design Systems
+- Product-driven engineering
+<br>
+<sub><i>"Continuous improvement over perfection."</i> — always learning, iterating, and building.</sub>
